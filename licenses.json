@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "licenses": [
+    {
+      "approvalCode": "DR1-969e67afd236584d228976cb3a5698422e15cce92b51de6e2007639a6c407156",
+      "enabled": true,
+      "expiresAt": null
+    },
+    {
+      "approvalCode": "DR1-1111111111111111111111111111111111111111111111111111111111111111",
+      "enabled": true,
+      "expiresAt": "2026-12-31T23:59:59+09:00"
+    },
+    {
+      "approvalCode": "DR1-2222222222222222222222222222222222222222222222222222222222222222",
+      "enabled": false,
+      "expiresAt": null
+    }
+  ]
+}
