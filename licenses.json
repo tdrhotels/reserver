@@ -15,6 +15,11 @@
       "approvalCode": "DR1-2222222222222222222222222222222222222222222222222222222222222222",
       "enabled": false,
       "expiresAt": null
+    },
+    {
+      "approvalCode": "DR1-a8a70b503d72fb754d1c26c1cf066ed8b6c71701601104b3f1c68b644522def5",
+      "enabled": true,
+      "expiresAt": "2026-10-12T23:59:59+09:00"
     }
   ]
 }
