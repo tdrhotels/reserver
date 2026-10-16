@@ -25,6 +25,11 @@
       "approvalCode": "DR1-14ba980865bb8bc4658b8794e6bb64de33dd219adf13c8ef16a4e7a484e7802d",
       "enabled": true,
       "expiresAt": "2026-12-31T23:59:59+09:00"
+    },
+    {
+      "approvalCode": "DR1-29037bfb7fe271a2e1540b68ba32e0e88a5950f4f0c96c526480e8ea1f5ddaf3",
+      "enabled": true,
+      "expiresAt": null
     }
   ]
 }
